@@ -8,3 +8,5 @@ Bu platform sayesinde bize ulaşabilirsiniz
 HTML 5 ve CSS kullanıldı.
 
 <h2> Screen Gif</h2>
+
+![](Screen.gif)
